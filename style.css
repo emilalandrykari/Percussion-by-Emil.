@@ -1,0 +1,58 @@
+body{
+ font-family:"garamond";
+ background-color:rgba(17, 132, 143, 0.9);
+background-image: url("https://upload.wikimedia.org/wikipedia/commons/9/9f/Crotales1.jpg");
+  text-align: center;
+  background-size: 1537px;
+  background-attachment: fixed;
+}
+h1{
+  color: white
+}
+h2{
+  color: white
+}
+p{
+  margin-left: 20px;
+  margin-right: 20px;
+  color: white;
+  font-size: 25px;
+}
+ul{
+  float: left;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: none;
+}
+li{display: inline
+}
+
+.div1{
+ background-color: rgba(15, 14, 0,0.5);
+margin-left: 200px;
+margin-right: 200px;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li{
+  float:left;
+}
+
+li a{
+  color: white;
+  text-align: center;
+  padding: 30px 30px;
+  text-decoration: none;
+  font-size: 40px;
+}
+
+li a:hover{
+  background-color: darkblue;
+}
